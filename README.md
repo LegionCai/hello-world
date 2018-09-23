@@ -1,5 +1,4 @@
 # hello-world
 New starter
 
-Hi,  there! Do you know Carol?
-She is my love of life.
+I am back now. And my love is kitling liew.
